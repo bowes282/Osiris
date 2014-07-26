@@ -1,8 +1,12 @@
 Osiris
 ======
-
 Osiris is the Open-Source Reality Simulator (OSRS)
 
+Dependencies
+============
+We're using the following third-party libraries for this application:
+* Ogre3d (http://www.ogre3d.org/)
+* Oculus Rift SDK 0.4.0 (https://developer.oculusvr.com/)
 
 Project Goals
 ======
